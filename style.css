@@ -1,0 +1,40 @@
+body{
+    background-color: antiquewhite;
+}
+a:hover{
+    background-color: whitesmoke;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 7px;
+    height: 0px;
+    width:200px;
+}
+h1{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+img{
+    background-color: antiquewhite;
+    border-color: aquamarine;
+    height:250px;
+    width:250px;
+    transition: all;
+    transition-duration: 2s;
+    transform-style: preserve-3d;
+    
+}
+img:hover{
+    background-color:whitesmoke;
+    rotate: 360deg;
+}
+.link{
+    color:green;
+}
+#contact{
+    color: #66BFBF;
+}
